@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeckodevelopment
 - 👀 I’m interested in [Joomla](https://github.com/joomla/joomla-cms) and Web Technologies
-- 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me @jeckodev on Twitter
 
 <!---
